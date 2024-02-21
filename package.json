@@ -51,7 +51,7 @@
     "@ant-design/icons": "^4.7.0",
     "@xstate/react": "^3.0.0",
     "antd": "^4.20.5",
-    "axios": "^0.27.2",
+    "axios": "^0.28.0",
     "cross-spawn": "^7.0.3",
     "electron-is-dev": "^2.0.0",
     "electron-log": "^4.4.7",
